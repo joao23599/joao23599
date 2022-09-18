@@ -21,6 +21,5 @@ Oi! Aqui você verá material de estudo e trabalho.
   <a href="https://imgbb.com/"><img src="https://i.ibb.co/1z6Zhb0/iconeC.png" alt="iconeC" border="0" img align="center" height="30" width="40"></a>
   <a href="https://imgbb.com/"><img src="https://i.ibb.co/vXdzJKp/iconejava.png" alt="iconejava" border="0" img align="center" height="50" width="60"></a>
   <a href="https://imgbb.com/"><img src="https://i.ibb.co/H4QxPSs/iconephp.png" alt="iconephp" border="0" img align="center" height="35" width="45"></a>
-  <a href="https://imgbb.com/"><img src="https://i.ibb.co/xfgLKfh/eu-Desenho.png" alt="eu-Desenho" border="0" img align="right" height="150" width="110"></a>
-
+ 
 ##
