@@ -11,7 +11,6 @@ Oi! Aqui você verá material de estudo e trabalho.
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=joao23599&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao23599&layout=compact&langs_count=7&theme=midnight-purple"/>
   </div>
   
-  
   <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -19,7 +18,7 @@ Oi! Aqui você verá material de estudo e trabalho.
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">  
   <a href="https://imgbb.com/"><img src="https://i.ibb.co/1z6Zhb0/iconeC.png" alt="iconeC" border="0" img align="center" height="30" width="40"></a>
-  <a href="https://imgbb.com/"><img src="https://i.ibb.co/vXdzJKp/iconejava.png" alt="iconejava" border="0" img align="center" height="50" width="60"></a>
   <a href="https://imgbb.com/"><img src="https://i.ibb.co/H4QxPSs/iconephp.png" alt="iconephp" border="0" img align="center" height="35" width="45"></a>
- 
-##
+  <a href="https://ibb.co/CvF1mkg"><img src="https://i.ibb.co/TR5vYV6/baki.jpg" alt="baki" border="0" img align="right" height="150" width="130"></a>
+  
+  ##
